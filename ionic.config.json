@@ -1,0 +1,7 @@
+{
+  "name": "GetPrice",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
